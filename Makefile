@@ -1,5 +1,5 @@
 all: dirty.c
-	gcc -std=c99 -lpthread dirty.c -o get_root
+	gcc dirty.c -lpthread -O3 -o get_root
 
 attack:
 	./get_root
