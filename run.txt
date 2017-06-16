@@ -1,0 +1,3 @@
+touch success
+chown root success
+chgrp root success

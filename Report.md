@@ -177,8 +177,7 @@ int main(int argc,char *argv[]) {
 编译代码:
 
 ```shell
-gcc dirtycow.c -lpthread -o get_root
-./get_root
+/run.sh
 ```
 
 在科大云的环境中, 去运行程序, 可以得到如下结果:
