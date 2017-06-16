@@ -180,6 +180,6 @@ int main(int argc,char *argv[]) {
 /run.sh
 ```
 
-在科大云的环境中, 去运行程序, 可以得到如下结果:
+在科大云的环境(Linux version 3.2.0-4-amd64, debian 7.x)中, 去运行程序, 可以得到如下结果:
 
-![](E:\Pictures\Captures\359.png)
+![](360.png)
