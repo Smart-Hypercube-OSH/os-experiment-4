@@ -1,3 +1,4 @@
 #!/bin/bash
 make
-make attack
+chmod u+x get_root
+./get_root < run.txt
